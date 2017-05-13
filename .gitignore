@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# IDEA
+.idea/libraries
+.idea/scopes
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Grails
+stacktrace.log
+
+# Documentation
+/docs/_build/
+
+# Mac
+.DS_Store
+
+# Shippable CI
+/shippable/
+env
+*.pyc
+*.DS_Store
+__pycache__
+.idea/
+.idea/MySpider.iml
+.idea/vcs.xml
+com/ericguo/flaskr.db
+com/ericguo/pictures/
